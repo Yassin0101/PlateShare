@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "884462268479",
+    "project_id": "ubereatsclone-14869",
+    "storage_bucket": "ubereatsclone-14869.firebasestorage.app"
+  },
+
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884462268479:android:d31855af5bb984545a888a",
+        "android_client_info": {
+          "package_name": "com.YassinSolutions.PlateShare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEAuhrvyGIcePMjq4vsOVhzpycdAvbkws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
